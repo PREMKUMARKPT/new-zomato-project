@@ -45,7 +45,7 @@ if not table_exists:
             average_rating FLOAT
         )
     """)
-    print("✅ Customers table created successfully!")
+    print(" Customers table created successfully!")
 
 # Insert 10 fake customers
 for _ in range(100):
